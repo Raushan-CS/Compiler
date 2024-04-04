@@ -1,0 +1,4 @@
+Q --> zQ | 
+P --> xy | 
+B --> bB | 
+S --> aB | cd | PQ
